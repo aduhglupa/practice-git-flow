@@ -1,2 +1,3 @@
 Ini adalah kalimat pertama di feature
 Ini adalah kalimat kedua di feature
+Ini adalah kalimat ketiga
